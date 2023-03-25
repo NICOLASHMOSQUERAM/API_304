@@ -40,3 +40,4 @@ server.delete('/api/:id', (req: Request, res: Response) => {
 server.listen(80, () => {
   console.log('App is up and running')
 })
+
